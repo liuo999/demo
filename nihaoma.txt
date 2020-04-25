@@ -1,7 +1,24 @@
-dfcwekrjalksd
+git   init   
+
+git   add  filename  
+
+git  status 
+
+git  commit   
+
+git  push  
+
+git  pull  
+
+git  clone  
+
+git version  
 
 
-3243244335
+git  --global    user.name  'liuwei'
 
+git  --global    user.email '353291547@qq.com'
 
-345345
+git   rm   --cached   filename   //删除文件
+
+git   add   *.html   //把 html 文件上传
